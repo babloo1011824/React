@@ -6,20 +6,21 @@ import MyComp from './MyComp';
 
 
 ReactDOM.render(
+        <App/>,
   
-    <div>
-       <MyComp />
-       <hr/>
-       <MyComp />
-       <hr/>
-       <MyComp />
-       <hr/>
-       <MyComp />
-       <hr/>
+    // <div>
+    //    <MyComp />
+    //    <hr/>
+    //    <MyComp />
+    //    <hr/>
+    //    <MyComp />
+    //    <hr/>
+    //    <MyComp />
+    //    <hr/>
 
-    </div>
+    // </div>
    
-  ,
+  // ,
   document.getElementById('root')
 );
 
